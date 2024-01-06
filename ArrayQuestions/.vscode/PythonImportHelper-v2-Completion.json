@@ -1,0 +1,56 @@
+[
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "findMaxAreaTestClass",
+        "kind": 6,
+        "importPath": "findMaxArea",
+        "description": "findMaxArea",
+        "peekOfCode": "class findMaxAreaTestClass(unittest.TestCase):\n    def test_max_area(self):\n        self.assertEqual(max_area([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)\nif __name__ == \"__main__\":\n    unittest.main()",
+        "detail": "findMaxArea",
+        "documentation": {}
+    },
+    {
+        "label": "max_area",
+        "kind": 2,
+        "importPath": "findMaxArea",
+        "description": "findMaxArea",
+        "peekOfCode": "def max_area(heights):\n    \"\"\"\n    Calculates the maximum area of water that can be trapped between vertical lines in the given array.\n    Args:\n        heights (List[int]): An array of non-negative integers representing the heights of the vertical lines.\n    Returns:\n        int: The maximum area of water that can be trapped.\n    Example:\n        >>> max_area([1, 8, 6, 2, 5, 4, 8, 3, 7])\n        49",
+        "detail": "findMaxArea",
+        "documentation": {}
+    },
+    {
+        "label": "TestClass",
+        "kind": 6,
+        "importPath": "findTargetSum",
+        "description": "findTargetSum",
+        "peekOfCode": "class TestClass(unittest.TestCase):\n    def test_find_target_sum(self):\n        self.assertEqual(find_target_sum([7, 2, 3, 5, 100], 8), [2,3])\n        self.assertEqual(find_target_sum([], 8), None)\n        self.assertEqual(find_target_sum([7, 2, 3, 5, 100], 200), None)\n    def test_optimised_sol(self):\n        self.assertEqual(optimised_sol([7, 2, 3, 5, 100], 8), [2,3])\n        self.assertEqual(optimised_sol([], 8), None)\n        self.assertEqual(optimised_sol([7, 2, 3, 5, 100], 200), None)\nif __name__== '__main__':",
+        "detail": "findTargetSum",
+        "documentation": {}
+    },
+    {
+        "label": "find_target_sum",
+        "kind": 2,
+        "importPath": "findTargetSum",
+        "description": "findTargetSum",
+        "peekOfCode": "def find_target_sum(arr, tar):\n    \"\"\"\n    This function finds the first pair of numbers in the array that add up to the target sum.\n    It uses a nested loop to iterate over the array, which results in a time complexity of O(n^2).\n    If no such pair exists, it returns None.\n    \"\"\"\n    for p1 in range(0, len(arr),1):\n        num_to_find = tar- arr[p1]\n        for p2 in range(p1+1, len(arr),1):\n            if arr[p2] == num_to_find:",
+        "detail": "findTargetSum",
+        "documentation": {}
+    },
+    {
+        "label": "optimised_sol",
+        "kind": 2,
+        "importPath": "findTargetSum",
+        "description": "findTargetSum",
+        "peekOfCode": "def optimised_sol(arr, tar):\n    \"\"\"\n    This function is an optimized solution for finding two numbers in an array that add up to a target sum.\n    It uses a dictionary to store the numbers it needs to find to reach the target sum and their indices.\n    It iterates over the array once, checking for each number if its complement to reach the target sum is in the dictionary.\n    If it is, it returns the indices of the two numbers. If it's not, it adds the complement of the current number to the dictionary.\n    If it goes through the entire array without finding a pair that adds up to the target, it returns None.\n    \"\"\"\n    lookup_table = {}\n    for p1 in range(0, len(arr),1):",
+        "detail": "findTargetSum",
+        "documentation": {}
+    }
+]
