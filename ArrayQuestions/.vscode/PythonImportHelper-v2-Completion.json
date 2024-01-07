@@ -13,7 +13,7 @@
         "kind": 6,
         "importPath": "findMaxArea",
         "description": "findMaxArea",
-        "peekOfCode": "class findMaxAreaTestClass(unittest.TestCase):\n    def test_max_area(self):\n        self.assertEqual(max_area([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)\nif __name__ == \"__main__\":\n    unittest.main()",
+        "peekOfCode": "class findMaxAreaTestClass(unittest.TestCase):\n    def test_max_area(self):\n        self.assertEqual(max_area([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)\n    def test_max_area_optimised(self):\n        self.assertEqual(max_area_optimied([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)\nif __name__ == \"__main__\":\n    unittest.main()",
         "detail": "findMaxArea",
         "documentation": {}
     },
@@ -23,6 +23,15 @@
         "importPath": "findMaxArea",
         "description": "findMaxArea",
         "peekOfCode": "def max_area(heights):\n    \"\"\"\n    Calculates the maximum area of water that can be trapped between vertical lines in the given array.\n    Args:\n        heights (List[int]): An array of non-negative integers representing the heights of the vertical lines.\n    Returns:\n        int: The maximum area of water that can be trapped.\n    Example:\n        >>> max_area([1, 8, 6, 2, 5, 4, 8, 3, 7])\n        49",
+        "detail": "findMaxArea",
+        "documentation": {}
+    },
+    {
+        "label": "max_area_optimied",
+        "kind": 2,
+        "importPath": "findMaxArea",
+        "description": "findMaxArea",
+        "peekOfCode": "def max_area_optimied(heights):\n    p1= 0\n    p2 = len(heights)-1\n    max_area =0\n    while p1<p2:\n        width = p2-p1\n        height = min(heights[p1], heights[p2])\n        area = width * height \n        max_area= max(area, max_area)\n        if heights[p1] < heights[p2]:",
         "detail": "findMaxArea",
         "documentation": {}
     },

@@ -24,6 +24,22 @@ def max_area(heights):
         
 
 
+def max_area_optimied(heights):
+    p1= 0
+    p2 = len(heights)-1
+    max_area =0
+
+    while p1<p2:
+        width = p2-p1
+        height = min(heights[p1], heights[p2])
+        area = width * height 
+        max_area= max(area, max_area)
+        if heights[p1] < heights[p2]:
+            p1+=1
+        else:
+            p2-=1
+    return max_area
+
 
 
 
@@ -43,6 +59,8 @@ import unittest
 class findMaxAreaTestClass(unittest.TestCase):
     def test_max_area(self):
         self.assertEqual(max_area([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)
+    def test_max_area_optimised(self):
+        self.assertEqual(max_area_optimied([1, 8, 6, 2, 5, 4, 8, 3, 7]), 49)
 
 if __name__ == "__main__":
     unittest.main()
