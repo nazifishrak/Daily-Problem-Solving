@@ -20,11 +20,6 @@ def trap_rainwater(heights):
     Given an array of integers representing the elevation map of non-negative integers 
     where each bar's width is 1, this function computes the amount of rainwater that 
     can be trapped between the bars after raining.
-
-    The algorithm iterates over the height array, using two pointers (left and right)
-    from both ends. At each step, it finds the potential trapped water at the current 
-    position by comparing the current height with the left and right max heights.
-
     Parameters:
     heights (List[int]): A list of non-negative integers representing the elevation map.
                          Each element in the list indicates the height of a bar at that index.
@@ -52,6 +47,7 @@ def trap_rainwater(heights):
 class Test(unittest.TestCase):
     def test_trap_rainwater(self):
         self.assertEqual(trap_rainwater([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]), 6)
+        self.assertEqual(trap_rainwater([3,4,3]), 0)
 
 
 if __name__ == '__main__':
