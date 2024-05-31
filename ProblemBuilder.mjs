@@ -1,4 +1,4 @@
-class ProblemBuilder {
+export class ProblemBuilder {
     constructor(title, difficulty, description) {
         this.title = title;
         this.difficulty = difficulty;
@@ -8,6 +8,10 @@ class ProblemBuilder {
 
     setSolution(solution) {
         this.solution = solution;
-        return this;
+        
+    }
+
+    printSolution(...z){
+        console.log(this.solution(...z))
     }
 }
