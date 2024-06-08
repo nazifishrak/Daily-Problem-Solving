@@ -22,6 +22,7 @@ class MyArray {
     }
 
     pop(){
+        if (this.length === 0) return undefined;
         let last_item = this.data[this.length-1]
         delete this.data[this.length-1];
         this.length--
