@@ -1,34 +1,25 @@
-class ListNode {
-    constructor(val) {
-        this.value = val;
-        this.next = null;
-    }
-}
-
-class LinkedList {
-    constructor(arr) {
-        if (arr.length === 0) {
-            this.head = null;
-            return;
-        }
-
-        this.head = new ListNode(arr[0]);
-        let current = this.head;
-
-        for (let i = 1; i < arr.length; i++) {
-            current.next = new ListNode(arr[i]);
-            current = current.next;
-        }
-    }
-
-    print() {
-        let curr = this.head;
-        while (curr != null) {
-            console.log(curr.value);
-            curr = curr.next;
-        }
-    }
-}
+const {LinkedList, ListNode} = require('./linkedListBase');
 
 let list1 = new LinkedList([1,2,3,4,5,6,7]);
 list1.print();
+
+
+function reverseLinkedList(head){
+    let prev = null;
+    let curr = head;
+    let next = null;
+
+    while(curr != null){
+        next = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = next;
+    }
+    return prev;
+}
+
+let reversedList = reverseLinkedList(list1.head);
+while (reversedList != null){
+    console.log(reversedList.value);
+    reversedList = reversedList.next;
+}

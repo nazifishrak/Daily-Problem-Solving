@@ -1,1 +1,1 @@
-e.setNext(arr[i+1])
+LinkedList
