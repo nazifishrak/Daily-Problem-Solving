@@ -3,6 +3,13 @@ class ListNode {
         this.value = val;
         this.next = null;
     }
+    print(){
+        let curr = this;
+        while (curr != null) {
+            console.log(curr.value);
+            curr = curr.next;
+        }
+    }
 }
 
 class LinkedList {

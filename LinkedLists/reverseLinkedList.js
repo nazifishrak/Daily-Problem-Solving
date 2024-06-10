@@ -19,7 +19,4 @@ function reverseLinkedList(head){
 }
 
 let reversedList = reverseLinkedList(list1.head);
-while (reversedList != null){
-    console.log(reversedList.value);
-    reversedList = reversedList.next;
-}
+reversedList.print();
