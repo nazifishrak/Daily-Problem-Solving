@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0747-min-cost-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0747-min-cost-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 # Stack
 |  |
 | ------- |
