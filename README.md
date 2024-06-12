@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0078-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 # Stack
 |  |
@@ -44,3 +45,11 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0078-subsets) |
