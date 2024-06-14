@@ -7,11 +7,13 @@
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
 # String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
 # Math
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
 # Recursion
