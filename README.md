@@ -61,3 +61,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0078-subsets) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
