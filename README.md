@@ -8,12 +8,14 @@
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1894-merge-strings-alternately) |
 # Math
 |  |
 | ------- |
