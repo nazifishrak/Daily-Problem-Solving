@@ -12,6 +12,7 @@
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -67,3 +69,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
+# Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0013-roman-to-integer) |
