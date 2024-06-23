@@ -9,6 +9,7 @@
 | [0344-reverse-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # String
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Hash Table
 |  |
 | ------- |
