@@ -80,3 +80,18 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0190-reverse-bits) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
