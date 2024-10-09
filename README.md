@@ -94,4 +94,20 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
