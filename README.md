@@ -97,6 +97,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -110,4 +111,16 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
