@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -130,4 +131,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
