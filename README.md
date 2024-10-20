@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
