@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
