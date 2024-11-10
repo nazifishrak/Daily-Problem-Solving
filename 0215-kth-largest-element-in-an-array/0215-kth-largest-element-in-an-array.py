@@ -12,9 +12,15 @@ class Solution(object):
                 return []
             else:
                 p = nums[0]
-                left_part=filter(lambda n: n<p, nums)
-                right_part=filter(lambda n: n>p, nums)
-                equal_part=filter(lambda n: n==p, nums)
+                left_part, right_part, equal_part =[],[],[]
+                for i in nums:
+                    if i<p:
+                        left_part.append(i)
+                    elif i==p:
+                        equal_part.append(i)
+                    else:
+                        right_part.append(i)
+
                 return quick_select(left_part)+equal_part+quick_select(right_part)
         
         return quick_select(nums)[len(nums)-k]
