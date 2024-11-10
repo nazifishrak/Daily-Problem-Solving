@@ -1,26 +1,31 @@
 class Solution(object):
     def findKthLargest(self, nums, k):
         """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        # [3,2,1,5,6,4]
-
-        def quick_select(nums):
-            if nums==[]:
-                return []
-            else:
-                p = nums[0]
-                left_part, right_part, equal_part =[],[],[]
-                for i in nums:
-                    if i<p:
-                        left_part.append(i)
-                    elif i==p:
-                        equal_part.append(i)
-                    else:
-                        right_part.append(i)
-
-                return quick_select(left_part)+equal_part+quick_select(right_part)
+        Find the kth largest element in an unsorted array using quickselect.
         
-        return quick_select(nums)[len(nums)-k]
+        Args:
+            nums: List[int] - input array
+            k: int - k value for kth largest element
+            
+        Returns:
+            int - kth largest element
+        """
+        def quick_select(nums, k):
+            if not nums:
+                return None
+            if len(nums) == 1:
+                return nums[0]
+            
+            pivot = nums[len(nums) // 2]  # Choose middle element as pivot to avoid worst case
+            left_part = [n for n in nums if n > pivot]
+            right_part = [n for n in nums if n < pivot]
+            equal_part = [n for n in nums if n == pivot]
+            
+            if k <= len(left_part):
+                return quick_select(left_part, k)
+            elif k <= len(left_part) + len(equal_part):
+                return pivot
+            else:
+                return quick_select(right_part, k - len(left_part) - len(equal_part))
+        
+        return quick_select(nums, k)
