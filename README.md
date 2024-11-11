@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
