@@ -138,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -172,4 +173,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
