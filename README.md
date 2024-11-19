@@ -182,4 +182,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
