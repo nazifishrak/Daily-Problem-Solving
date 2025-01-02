@@ -154,11 +154,13 @@
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
