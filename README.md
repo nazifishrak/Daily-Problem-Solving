@@ -125,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -144,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
