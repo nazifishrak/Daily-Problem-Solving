@@ -127,6 +127,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
@@ -197,4 +198,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
