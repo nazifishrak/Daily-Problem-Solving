@@ -1,31 +1,20 @@
-class Solution(object):
-    def minRemoveToMakeValid(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-
+class Solution:
+    def minRemoveToMakeValid(self, s: str) -> str:
         stack=[]
-        invalid=set()
-        for i in range(len(s)):
-            if s[i]=="(":
+        s_list=[c for c in s]
+        print(s_list)
+        for i, c in enumerate(s_list):
+            if c =="(":
                 stack.append(i)
-            elif s[i]==")":
-                if len(stack) !=0:
-                    stack.pop()
-                else:
-                    invalid.add(i)
+            elif c==")" and stack !=[]:
+                stack.pop(-1)
+            elif c==")":
+                s_list[i]=""
+            else:
+                continue
+
+        for i in range(len(stack)):
+            s_list[stack[i]]=""
+        return "".join(s_list)
+                
         
-        for i in stack:
-            invalid.add(i)
-
-        output =""
-
-        for i,char in enumerate(s):
-            if i not in invalid:
-                output+=char
-
-        return output
-            
-
-    
