@@ -85,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
@@ -192,6 +193,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
