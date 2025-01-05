@@ -88,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -106,17 +107,20 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -206,4 +210,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
