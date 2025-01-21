@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
 |  |
@@ -215,5 +217,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
