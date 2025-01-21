@@ -92,6 +92,7 @@
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Database
 |  |
 | ------- |
@@ -219,4 +221,8 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
