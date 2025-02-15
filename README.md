@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
