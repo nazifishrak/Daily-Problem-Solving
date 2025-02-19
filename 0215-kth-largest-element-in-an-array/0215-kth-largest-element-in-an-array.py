@@ -1,18 +1,25 @@
-from heapq import heapify
-class Solution(object):
-    def findKthLargest(self, nums, k):
-        """
-        Find the kth largest element in an unsorted array using heap
-        """
+from random import *
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        if nums==[]:
+            return None
 
-        heap=nums[0:k]
-        heapq.heapify(heap)
-        for i in nums[k:]:
-            if i>heap[0]:
-                heapq.heappop(heap)
-                heapq.heappush(heap,i)
-            else:
-                continue
+        if len(nums)==1:
+            return nums[0]
+        p=choice(nums)
+        l=[x for x in nums if x>p]
+        m=[x for x in nums if x==p]
+        r=[x for x in nums if x<p]
 
-        return heap[0]
 
+
+        if k<=len(l)+len(m) and len(l)<k:
+            return p
+        elif len(l)>=k:
+            return self.findKthLargest(l,k)
+        else:
+            return self.findKthLargest(r,k-(len(l)+len(m)))
+
+        # 1 2 3 4 5
+            
+        
