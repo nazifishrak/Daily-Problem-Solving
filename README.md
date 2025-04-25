@@ -92,6 +92,7 @@
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0948-sort-an-array) |
 ## Depth-First Search
@@ -181,6 +183,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -266,4 +271,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1250-longest-common-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
