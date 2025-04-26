@@ -88,6 +88,7 @@
 | [0001-two-sum](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
@@ -269,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
