@@ -94,6 +94,7 @@
 | [0200-number-of-islands](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -251,6 +252,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Merge Sort
 |  |
