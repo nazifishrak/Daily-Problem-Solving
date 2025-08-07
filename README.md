@@ -98,6 +98,7 @@
 | [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -200,6 +201,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nazifishrak/Daily-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
