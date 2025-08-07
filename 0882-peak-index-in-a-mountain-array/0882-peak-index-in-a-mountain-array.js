@@ -19,7 +19,7 @@ var peakIndexInMountainArray = function(arr) {
         
         // check if on the left slope
         if (arr[mid]>= arr[mid-1] && arr[mid]<= arr[mid+1]){
-            st=mid+1
+            st=mid
         } else{
             end=mid
         }
